@@ -11,7 +11,7 @@ This project aims to develop a support agent chatbot for answering "How-to" ques
 - [Configuration](#configuration)
 - [Contributing](#contributing)
 - [License](#license)
-- [Acknowledgements](#acknowledgements)
+
 
 ## Introduction
 
@@ -40,3 +40,23 @@ To install the Support Agent Chatbot, follow these steps:
    npm start
 Usage
 To use the chatbot, simply interact with it through the designated platform. For example, you can use it on the web by navigating to http://localhost:3000 after starting the chatbot.
+Configuration
+To configure the chatbot, modify the config.json file with the necessary parameters such as API keys, platform settings, and other configurations.
+
+Contributing
+Contributions are welcome! Please follow these steps to contribute:
+
+Fork the repository.
+
+Create a new branch (git checkout -b feature/your-feature-name).
+
+Make your changes.
+
+Commit your changes (git commit -m 'Add some feature').
+
+Push to the branch (git push origin feature/your-feature-name).
+
+Create a new Pull Request.
+
+License
+This project is licensed under the MIT License - see the LICENSE file for details.
