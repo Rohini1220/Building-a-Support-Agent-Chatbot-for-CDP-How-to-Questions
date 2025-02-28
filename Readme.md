@@ -1,57 +1,42 @@
-Getting Started with Create React App
-This project was bootstrapped with Create React App.
+# Support Agent Chatbot for CDP: How-to Questions
 
-Available Scripts
-In the project directory, you can run:
+This project aims to develop a support agent chatbot for answering "How-to" questions related to a Customer Data Platform (CDP). The chatbot will help users understand and utilize the features and functionalities of the CDP effectively.
 
-npm start
-Runs the app in the development mode.
-Open http://localhost:3000 to view it in your browser.
+## Table of Contents
 
-The page will reload when you make changes.
-You may also see any lint errors in the console.
+- [Introduction](#introduction)
+- [Features](#features)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Configuration](#configuration)
+- [Contributing](#contributing)
+- [License](#license)
+- [Acknowledgements](#acknowledgements)
 
-npm test
-Launches the test runner in the interactive watch mode.
-See the section about running tests for more information.
+## Introduction
 
-npm run build
-Builds the app for production to the build folder.
-It correctly bundles React in production mode and optimizes the build for the best performance.
+The Support Agent Chatbot for CDP is designed to assist users in navigating and making the most out of the Customer Data Platform. It provides detailed and context-aware responses to various "How-to" questions, ensuring users can efficiently utilize the CDP's capabilities.
 
-The build is minified and the filenames include the hashes.
-Your app is ready to be deployed!
+## Features
 
-See the section about deployment for more information.
+- **Natural Language Processing:** Understands and processes user queries in natural language.
+- **Context-aware Responses:** Provides accurate and relevant responses based on the context of the query.
+- **Multi-channel Support:** Available on multiple platforms including web, mobile, and messaging apps.
+- **User-friendly Interface:** Easy to interact with, making the user experience smooth and intuitive.
+- **Extensible and Customizable:** Can be extended and customized to support additional functionalities and integrations.
 
-npm run eject
-Note: this is a one-way operation. Once you eject, you can't go back!
+## Installation
 
-If you aren't satisfied with the build tool and configuration choices, you can eject at any time. This command will remove the single build dependency from your project.
+To install the Support Agent Chatbot, follow these steps:
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except eject will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use eject. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-Learn More
-You can learn more in the Create React App documentation.
-
-To learn React, check out the React documentation.
-
-Code Splitting
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-Analyzing the Bundle Size
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-Making a Progressive Web App
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-Advanced Configuration
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-Deployment
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-npm run build fails to minify
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+1. Clone the repository:
+   ```sh
+   git clone https://github.com/yourusername/Support-Agent-Chatbot-CDP.git
+2. Navigate to the project directory:
+   cd Support-Agent-Chatbot-CDP
+3. Install dependencies:
+   npm install
+4. Start the chatbot:
+   npm start
+Usage
+To use the chatbot, simply interact with it through the designated platform. For example, you can use it on the web by navigating to http://localhost:3000 after starting the chatbot.
